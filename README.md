@@ -118,10 +118,10 @@ adventureworks-bi-report/
 │   ├── AdventureWorks Territory_lookup.csv
 │   └── AdventureWorks Calendar_lookup.csv
 ├── images/
-│   ├── exec_dashboard.png
+│   ├── customer_detail.png
 │   ├── map.png
 │   ├── product_detail.png
-│   └── customer_detail.png
+│   └── exec_dashboard.png
 ├── AdventureWorks Report.pbix     # Main Power BI report file
 ├──LICENSE
 └── README.md
