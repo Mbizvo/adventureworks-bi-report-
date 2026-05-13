@@ -107,16 +107,16 @@ Customer segmentation and value analysis — *"Who are our best customers and wh
 adventureworks-bi-report/
 │
 ├── data/
-│   ├── AdventureWorks Sales Data 2020
-│   ├── AdventureWorks Sales Data 2021
-│   ├── AdventureWorks Sales Data 2022
-│   ├── AdventureWorks Returns_data.csv
-│   ├── AdventureWorks Products_lookup.csv
-|   ├── AdventureWorks Product Categories Lookup
+│   ├── AdventureWorks Calendar_lookup.csv 
+│   ├── AdventureWorks Customers_lookup.csv 
+│   ├── AdventureWorks Product Categories Lookup.csv 
+│   ├── AdventureWorks Products_lookup.csv 
 |   ├── AdventureWorks Product Subcategories Lookup
-│   ├── AdventureWorks Customers_lookup.csv
-│   ├── AdventureWorks Territory_lookup.csv
-│   └── AdventureWorks Calendar_lookup.csv
+│   ├── AdventureWorks Returns_data.csv
+│   ├── AdventureWorks Sales Data 2020.csv
+│   ├── AdventureWorks Sales Data 2021.csv
+│   ├── AdventureWorks Sales Data 2022.csv
+│   └── AdventureWorks Territory_lookup.csv
 ├── images/
 │   ├── customer_detail.png
 │   ├── exec_dashboard.png
